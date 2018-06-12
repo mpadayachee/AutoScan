@@ -1,0 +1,2 @@
+# AutoScan
+GitHub Pages
